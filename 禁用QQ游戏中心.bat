@@ -1,9 +1,9 @@
 CD %APPDATA%/QQ/dynamic_package
-ECHO "ÕýÔÚÇåÀí¿ÉÄÜµÄ°²×°ÄÚÈÝ"
+ECHO "æ­£åœ¨æ¸…ç†å¯èƒ½çš„å®‰è£…å†…å®¹"
 DEL /F /Q /A:H gameCenterQQPlay
 RMDIR /S /Q gameCenterQQPlay
-ECHO "ÕýÔÚ´´½¨ÎÄ¼þ²¢×èÖ¹ÐÞ¸Ä"
-ECHO "Éµ±ÆQQ" > gameCenterQQPlay
+ECHO "æ­£åœ¨åˆ›å»ºæ–‡ä»¶å¹¶é˜»æ­¢ä¿®æ”¹"
+ECHO "noQQPlay" > gameCenterQQPlay
 ATTRIB +H +R gameCenterQQPlay
-ECHO "ÒÑ¾­Íê³ÉÐÞ¸Ä£¬¹§Ï²£¬ÏÖÔÚQQÓÎÏ·ÖÐÐÄ½«ÎÞ·¨ÏÂÔØ/´ò¿ª"
+ECHO "å·²ç»å®Œæˆä¿®æ”¹ï¼Œæ­å–œï¼ŒçŽ°åœ¨QQæ¸¸æˆä¸­å¿ƒå°†æ— æ³•ä¸‹è½½/æ‰“å¼€"
 TIMEOUT -1
